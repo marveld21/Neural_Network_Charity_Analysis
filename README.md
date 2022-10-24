@@ -5,8 +5,11 @@
 
 ## Results
 ### Data Preprocessing
+
 -IS_SUCCESSFUL is the target variable.
+
 -APPLICATION_TYPE, AFFILIATION, USE_CASE, ORGANIZATION, STATUS, INCOME_AMT, SPECIAL_CONDITIONS, ASK_AMT are all features for the dataset.
+
 -EIN and NAME are identifiers and are neither the target or features
 
 ### Compliing, Training and Evaluating the Model
